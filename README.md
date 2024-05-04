@@ -13,4 +13,4 @@ Imaginons que nous sommes des ingénieurs en IA développant une solution pour u
 - Trouver les hôpitaux ayant le plus grand écart entre le nombre de revues positives et négatives.
 - Comparaisons de la satisfaction des patients entre les hôpitaux.
 - Feedback sur la communication du personnel soignant.
-- Quels sont les 3 hôpitaux ayant le plus grand nombre de revues négatives contenant les mots 'mauvais' ou 'terrible' ?.
+- Quels sont les hôpitaux avec le nombre moyen de revues par visite le plus élevé ?.
