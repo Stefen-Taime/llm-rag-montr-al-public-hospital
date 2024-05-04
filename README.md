@@ -10,7 +10,7 @@ L'objectif principal est de fournir une visibilité immédiate sur les données 
 Imaginons que nous sommes des ingénieurs en IA développant une solution pour un grand réseau hospitalier. Nos parties prenantes nécessitent une visibilité accrue sur les données collectées, en souhaitant des réponses à des questions diverses concernant les patients, les visites, et le personnel, de manière simple et directe.
 
 ### Questions à Répondre
-- Délais d'attente actuels dans les différents hôpitaux.
-- Comparaisons des temps d'attente et de la satisfaction patient entre les hôpitaux.
+- Trouver les hôpitaux ayant le plus grand écart entre le nombre de revues positives et négatives.
+- Comparaisons de la satisfaction des patients entre les hôpitaux.
 - Feedback sur la communication du personnel soignant.
-- Détails des plaintes relatives à la propreté et la facturation.
+- Quels sont les 3 hôpitaux ayant le plus grand nombre de revues négatives contenant les mots 'mauvais' ou 'terrible' ?.
