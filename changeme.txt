@@ -1,0 +1,18 @@
+OPENAI_API_KEY=
+
+# Wait 60 seconds before connecting using these details, or login to https://console.neo4j.io to validate the Aura Instance is available
+NEO4J_URI=neo4j+s://.databases.neo4j.io
+NEO4J_USERNAME=neo4j
+NEO4J_PASSWORD=AURA_INSTANCEID=
+AURA_INSTANCENAME=
+
+HOSPITALS_CSV_PATH=https://raw.githubusercontent.com/Stefen-Taime/llm-rag-mtl-public-hospital/main/llm-data/hospitals.csv
+PATIENTS_CSV_PATH=https://raw.githubusercontent.com/Stefen-Taime/llm-rag-mtl-public-hospital/main/llm-data/patients.csv
+VISITS_CSV_PATH=https://raw.githubusercontent.com/Stefen-Taime/llm-rag-mtl-public-hospital/main/llm-data/visits.csv
+REVIEWS_CSV_PATH=https://raw.githubusercontent.com/Stefen-Taime/llm-rag-mtl-public-hospital/main/llm-data/reviews.csv
+
+HOSPITAL_AGENT_MODEL=gpt-3.5-turbo-1106
+HOSPITAL_CYPHER_MODEL=gpt-3.5-turbo-1106
+HOSPITAL_QA_MODEL=gpt-3.5-turbo-0125
+
+CHATBOT_URL=http://192.168.2.19:8000/hospital-rag-agent
