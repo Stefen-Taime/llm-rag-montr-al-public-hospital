@@ -1,4 +1,4 @@
-# Projet LLM RAG pour l'analyse des avis sur les hôpitaux
+# Projet LLM RAG pour l'analyse des avis sur les hôpitaux Montréalais
 
 ## Description
 Ce projet développe un modèle de type Retrieve-Augment-Generate (RAG) pour répondre aux questions en utilisant les données publiques des avis laissés sur Google pour des hôpitaux à Montréal. Les hôpitaux ciblés incluent l'Hôpital du Sacré-Cœur-de-Montréal, l'Hôpital Maisonneuve-Rosemont, l'Hôpital Jean-Talon, l'Hôpital Notre-Dame - Siège social du CCSMTL, et le CHU Sainte-Justine.
