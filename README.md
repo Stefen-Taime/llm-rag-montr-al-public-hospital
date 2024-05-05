@@ -9,6 +9,9 @@
 ## Description
 Ce projet développe un modèle de type Retrieve-Augment-Generate (RAG) pour répondre aux questions en utilisant les données publiques des avis laissés sur Google pour des hôpitaux à Montréal. Les hôpitaux ciblés incluent l'Hôpital du Sacré-Cœur-de-Montréal, l'Hôpital Maisonneuve-Rosemont, l'Hôpital Jean-Talon, l'Hôpital Notre-Dame - Siège social du CCSMTL, et le CHU Sainte-Justine.
 
+Il s'agit d'une démonstration d'IA générative. L'idée a été influencée par [cette] (https://realpython.com/build-llm-rag-chatbot-with-langchain/) menée par Harrison Hoffman  vid Pythonista, Data Scientist, and Real Python contributor).
+Harrison Hoffman fait une très bonne introduction au développement de LLM avec LangChain en Python. J'ai pris l'idée du brise-glace et l'ai transformée en un cas d'utilisation réel.
+
 ## Objectifs
 L'objectif principal est de fournir une visibilité immédiate sur les données en constante évolution des avis hospitaliers, sans nécessité de compétences en SQL ou attente de rapports analystiques.
 
